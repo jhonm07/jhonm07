@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jhonm07/jhonm07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ** DevOps Engineer** with more than 5 years of experience automating infrastructure and continuous delivery in the cloud (Azure, GCP and AWS).
 
-Here are some ideas to get you started:
+🔧 Tecnologías:
+- Terraform, ARM Templates
+- Docker, Kubernetes, Azure Container Apps
+- Azure DevOps, GitHub Actions
+- CI/CD, Monitoring, Logging
+- Bash, PowerShell, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I build scalable and secure solutions for production environments.
+
+📫 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | 
